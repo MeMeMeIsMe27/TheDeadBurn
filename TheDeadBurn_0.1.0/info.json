@@ -4,7 +4,7 @@
     "title": "The Dead Burn",
     "author": "Ben and Dad (mostly just Ben)",
     "contact": "",
-    "homepage": "",
+    "homepage": "https://github.com/MeMeMeIsMe27/TheDeadBurn",
     "factorio_version": "0.16",
     "dependencies": ["base >= 0.16"],
     "description": "You can burn the dead bodies of monsters you kill for fuel."
