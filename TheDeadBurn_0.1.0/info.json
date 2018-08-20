@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "title": "The Dead Burn",
     "author": "Me",
-    "contact": "",
+    "contact": "Use the mod page website thing",
     "homepage": "https://github.com/MeMeMeIsMe27/TheDeadBurn",
     "factorio_version": "0.16",
     "dependencies": ["base >= 0.16"],
